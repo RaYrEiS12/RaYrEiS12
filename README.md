@@ -10,7 +10,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia Senac DF. Neste perfil, compartilho projetos acadêmicos de desenvolvimento de software, bancos de dados e redes de computadores.
 
-Minha experiência como assistente administrativa na Drogasil inclui atendimento ao público, abertura de chamados e apoio com equipamentos. Busco uma oportunidade de **estágio ou posição inicial em TI**, com interesse em desenvolvimento de software, suporte técnico e redes.
+Minha experiência como assistente administrativa na Drogaria Rosário inclui atendimento ao público, abertura de chamados e apoio com equipamentos. Busco uma oportunidade de **estágio ou posição inicial em TI**, com interesse em desenvolvimento de software, suporte técnico e redes.
 
 ## Tecnologias e ferramentas
 
@@ -18,7 +18,7 @@ Minha experiência como assistente administrativa na Drogasil inclui atendimento
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,py,github,idea&amp;perline=8" alt="Java, Spring, HTML, CSS, JavaScript, Python, GitHub e IntelliJ IDEA">
 </p>
 
-**Java** · **Spring Boot** · **JavaFX** · **SQL** · **HTML/CSS** · **JavaScript** · **Python (noções)** · **GitHub** · **IntelliJ IDEA**
+**Visual Studio Code** **AWS**  **Java** · **Spring Boot** · **JavaFX** · **SQL** · **HTML/CSS** · **JavaScript** · **Python (noções)** · **GitHub** · **IntelliJ IDEA**
 
 Em redes, estudo **TCP/IP, DNS, DHCP e planejamento de topologias**.
 
