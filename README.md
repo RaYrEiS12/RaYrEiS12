@@ -18,7 +18,7 @@ Minha experiência como assistente administrativa na Drogaria Rosário inclui at
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,py,github,idea&amp;perline=8" alt="Java, Spring, HTML, CSS, JavaScript, Python, GitHub e IntelliJ IDEA">
 </p>
 
-**Visual Studio Code** **AWS**  **Java** · **Spring Boot** · **JavaFX** · **SQL** · **HTML/CSS** · **JavaScript** · **Python (noções)** · **GitHub** · **IntelliJ IDEA**
+**Visual Studio Code**. **AWS** . **Java** · **Spring Boot** · **JavaFX** · **SQL** · **HTML/CSS** · **JavaScript** · **Python (noções)** · **GitHub** · **IntelliJ IDEA**
 
 Em redes, estudo **TCP/IP, DNS, DHCP e planejamento de topologias**.
 
