@@ -1,0 +1,1 @@
+![Raiane Reis — estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia Senac DF, em Brasília. Redes, Java, Banco de dados, Python, HTML/CSS e Desenvolvimento de Software.](Banner_Raiane_Final.gif)
