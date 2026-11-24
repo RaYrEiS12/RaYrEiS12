@@ -19,6 +19,7 @@ Minha experiência como assistente administrativa na Drogaria Rosário inclui at
 </p>
 **Java** · **Spring Boot** · **JavaFX** · **SQL** · **HTML/CSS** · **JavaScript** · **Python (noções)** · **GitHub** · **IntelliJ IDEA** · **Visual Studio Code** · **AWS** · **Eclipse**
 
+
 Em redes, estudo **TCP/IP, DNS, DHCP e planejamento de topologias**.
 
 ## Projetos selecionados
